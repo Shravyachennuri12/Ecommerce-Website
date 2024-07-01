@@ -1,0 +1,10 @@
+.shadow{
+
+    transition:  all 1s linear;
+
+}
+
+
+.shadow:hover{
+    transform: scale(1.1);
+}
